@@ -1,1 +1,2 @@
-# mnik-glyphs-scripts
+# Mooniak GlyphsApp scripts
+
