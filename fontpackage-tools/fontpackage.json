@@ -1,0 +1,101 @@
+{
+    "name": "Noto Sans Sinhala Cond Light",
+    "packagekey": "2.006;GOOG;NotoSansSinhala-CondensedLight",
+    "type": "family",
+    "version": "Version 2.006",
+    "status": "",
+    "authors": [
+        "",
+        ""
+    ],
+    "license": "",
+    "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/sinhala)",
+    "category": "",
+    "licenseFile": "https://scripts.sil.org/OFL",
+    "licenseDescription": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+    "description": "Designed by Monotype design team.",
+    "repository": {
+        "url": "",
+        "type": "git"
+    },
+    "homepageUrl": "",
+    "issuesUrl": "",
+    "datePublished": "",
+    "fontlog": "",
+    "foundry": {
+        "name": "Monotype Imaging Inc.",
+        "email": "",
+        "url": "",
+        "vendorId": ""
+    },
+    "designers": [
+        {
+            "name": "Jelle Bosma - Monotype Design Team",
+            "email": "",
+            "url": ""
+        },
+        {
+            "name": "",
+            "email": "",
+            "url": ""
+        },
+        {
+            "name": "",
+            "email": "",
+            "url": ""
+        }
+    ],
+    "private": "",
+    "maintenance": {
+        "status": "",
+        "comment": ""
+    },
+    "versionsProvider": "",
+    "tools": "",
+    "tags": [
+        {
+            "style": "",
+            "contrast": "",
+            "width": "",
+            "bodyHeight": "",
+            "intendedUsage": "",
+            "figures": "",
+            "languages": "",
+            "relatedFonts": ""
+        }
+    ],
+    "displayTexts": [
+        {
+            "en_US": null
+        },
+        {
+            "si_LK": ""
+        },
+        {
+            "dv_IN": ""
+        }
+    ],
+    "links": [
+        {
+            "fontInUse": "",
+            "googleFonts": "",
+            "fontLibraryOrg": "",
+            "typekit": ""
+        }
+    ],
+    "fonts": [
+        {
+            "name": "Noto Sans Sinhala Condensed Light",
+            "path": "NotoSansSinhala.otf",
+            "style": "",
+            "weight": "",
+            "fullName": "Noto Sans Sinhala Condensed Light",
+            "previewImage": "",
+            "protected": "",
+            "purpose": "",
+            "variableFont": "",
+            "format": "TTF",
+            "free": ""
+        }
+    ]
+}
